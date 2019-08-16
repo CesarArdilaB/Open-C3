@@ -1,0 +1,1 @@
+<iframe width="850" height="400" src="libs/fileupload/indexF.php?Idcamania=<?=$_GET[Idcamania]?>&IdIdent=<?=$_GET[IdIdent]?>" frameborder="0"></iframe>

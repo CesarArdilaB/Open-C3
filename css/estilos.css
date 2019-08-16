@@ -1,0 +1,517 @@
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #069;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+	color: #666;
+}
+
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333;
+}
+body {
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.textos_titulos {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	margin: 5px;
+	padding: 5px;
+}
+
+.textos_negros {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+}
+
+.grupos_titulos {
+	font-family: Verdana, Geneva, sans-serif;
+	background-color:#ECF5FF;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	margin: 2px;
+	padding: 3px;
+}
+
+.membrete {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	margin: 5px;
+	padding: 5px;
+}
+
+.textos {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+
+}
+.textospadding {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	margin: 5px;
+	padding: 5px;
+}
+
+
+#boxcorto {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	margin: 1px;
+	padding: 2px;
+	width: 20px;
+}
+
+.textosHoras {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	margin: 4px;
+	padding: 2px;
+}
+
+.mensajes {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #333;
+	clear: none;
+	float: none;
+	padding: 10px;
+}
+
+.textosbig {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bolder;
+	font-variant: normal;
+}
+
+.textosbigRes {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	color:#069;
+}
+
+.textosbigBlanco {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #FFF;
+	padding: 3px;
+}
+.textosbigBlancoSmall {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #FFF;
+}
+
+
+input{
+	
+	margin:5px;
+	
+	}
+	
+.divcamposs{
+	
+	float:!important;
+	
+	}
+
+/*de aqui para abajo es del validador de formularios*/
+	
+input.vanadium-invalid, select.vanadium-invalid, textarea.vanadium-invalid {
+  border-color: red !important;
+  border-style: solid !important;
+}
+
+input.vanadium-valid, select.vanadium-valid, textarea.vanadium-valid {
+  border-color: #0F0 !important;
+  border-style: solid !important;
+}
+
+.vanadium-message-value {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.vanadium-advice {
+  font-size: 12px;
+}
+
+.vanadium-advice.vanadium-invalid, .vanadium-advice.vanadium-invalid * {
+  font-size: 12px;
+  color: red;
+  font-weight:bold;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+input.vanadium-valid {
+ /* background-color: greenyellow; */
+}
+
+input.vanadium-valid ~ .vanadium-valid-advice {
+  display: inline !important;
+  color: green;
+}
+
+.container {
+  border-color: #00F;
+  border-style: solid;
+  border-width: 2px;
+  margin: 3px;
+  padding: 2px;
+  width: auto;
+}
+
+.container.vanadium-valid {
+  border-color: #0F0 !important;
+}
+
+.container.vanadium-invalid {
+  border-color: #F00 !important;
+}
+.botones {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	color: #FFF;
+	background-color: #769FC0;
+	margin: 2px;
+	padding: 1px;
+	border: 0px solid #CCC;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 15px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#cajastexto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight:normal;
+	color:#666;
+	background-color:#BDF;
+	margin: 2px;
+	padding: 2px;
+	border: 1px solid #CCC;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 15px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+			}
+
+.LoginHome{
+	            position: absolute;
+				color:#FFF;
+				padding:5px;
+                left: 50%;
+                top: 50%;
+              /* width: 300px;
+                 height: 200px;*/ 
+               margin-top: -150px;
+                margin-left: -120px;
+                overflow: auto;
+                font-family:Arial, Helvetica, sans-serif;
+				font-size:12px;
+				background-color:#069;
+				border-top:1px solid #069;
+				border-bottom:1px solid #069;
+				border-left:1px solid #069;
+				-moz-box-shadow:0px 3px 4px #069;
+				-webkit-box-shadow:0px 3px 4px #069;
+				-box-shadow:0px 3px 4px #069;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+				-khtml-border-radius: 5px;
+				border-radius: 5px;
+	 		}
+.linkbotones {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	padding: 2px;
+	color: #FFF;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-khtml-border-radius: 2px;
+	border-radius: 2px;
+	margin-top: 5px;
+	margin-right: 2px;
+	margin-bottom: 5px;
+	margin-left: 2px;
+}
+
+			h3{
+				color:#666;
+				font-size:13px;
+				text-shadow:2px 2px 2px #ccc;
+			}
+			
+hr{
+	width:500px;
+	color:#ccc;
+	margin:5px;
+}
+
+ ESTE ES EL PEDASO DE FRONTEND
+
+           *{
+                padding:0;
+                margin:0;
+            }
+			body{
+                background:#FFFFFF;
+                font-family:"Helvetica Neue",Arial,Helvetica,Geneva,sans-serif;
+				overflow-x:hidden;
+
+            }
+			
+			.reference_div{
+				background:#f0f0f0;
+				height:30px;
+				width:100%;
+				position:fixed;
+                left:0px;
+                bottom:0px;
+                font-size:11px;
+				-moz-box-shadow:0px 0px 10px #aaa;
+				-webkit-box-shadow:0px 0px 10px #aaa;
+				-box-shadow:0px 0px 10px #aaa;
+            }
+			
+            span.reference{
+				position:fixed;
+                left:10px;
+                bottom:8px;
+                font-size:11px;
+            }
+            span.reference a{
+                color:#069;
+                text-decoration:none;
+                text-transform: uppercase;
+                text-shadow:0 1px 0 #fff;
+            }
+            span.reference a:hover{
+                color:#000;
+            }
+           
+		    .box_menu{
+                margin-top:-10px;
+				padding-top:5px;
+				margin-bottom:35px;
+				width:100%;
+                position:relative;
+                background:#fff;				
+				-moz-box-shadow:inset -0px 5px 5px  #CCC;
+
+            }
+			
+            .box_menu h2{
+				color:#666;
+				padding:10px 25px 15px 10px;
+				text-shadow:2px 2px 2px #ccc;
+            }
+			
+.modalAlertas {
+	padding:5px;
+	margin:5px;
+}
+
+.rounded-corners-gray {
+	border:1px solid #EBEBEB;
+	background:#EBEBEB;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin:2px;
+	padding-left:3px;
+	padding-top:5px;
+	padding-right:3px;
+}
+
+.rounded-corners-blue {
+	border:1px solid #ECF5FF;
+	background:#ECF5FF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin:2px;
+	padding:3px;
+}
+
+.rounded-corners-orange {
+	border:1px solid #F90;
+	background:#F90;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin:2px;
+	padding:3px;
+}
+
+
+.rounded-corners-blanco {
+	border:1px solid #FFFFFF;
+	background:#FFFFFF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin:5px;
+	padding:3px;
+}
+
+.rounded-corners-ALERTA {
+	border:1px solid #C00;
+	background:#F33;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin:5px;
+	padding:3px;
+}
+
+
+input, select, textarea{
+	
+	border:1px solid #ccc;
+	background:#F0F0F0;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin:3;
+	padding:2px;
+	-moz-box-shadow: -0px 0px 2px  #fff;
+	
+	}
+	
+file {
+	
+	border:1px solid #ccc;
+	background:#F0F0F0;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin:3;
+	padding:2px;
+	-moz-box-shadow: -0px 0px 2px  #fff;
+	width:10px;
+	text-align:left;
+	
+	}
+	
+input:focus, select:focus, textarea:focus {
+	
+	border:1px solid #ccc;
+	background:#F0F0F0;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin:3;
+	padding:2px;
+	-moz-box-shadow: -0px 0px 2px  #ccc;
+
+	}
+
+.botonGuardar {
+	
+	border:1px solid #ccc;
+	background:#666;
+	color:#FFF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin:3;
+	padding:2px;
+	-moz-box-shadow: -0px 0px 2px  #ccc;
+	font-weight:bold;
+	font-size:12px;
+
+	}
+	
+
+#feedback { font-size: 10px; }
+#selectable .ui-selecting { background: #CCC; }
+#selectable .ui-selected { background: #06C; color: white; }
+#selectable { list-style-type: none; margin: 0; padding: 0; width: 100%; }
+#selectable li { margin: 3px; padding: 0.4em; font-size: 10px; height: 18px; }
+
+.incomingcheker{
+	
+	position:relative;
+	float:right;
+	font-size:13px;
+	
+	}
+	
+.cuadrocall{
+	
+background: none repeat scroll 0 0 #CCCCCC;
+bottom: 35px;
+position: fixed;
+right: 5;
+text-align: center;
+width: 134px;
+border-radius: 5px;
+width:200px;
+	
+	
+	}

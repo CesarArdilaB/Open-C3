@@ -1,0 +1,4 @@
+los campos que se deben agregar
+
+para marcacion predictiva normal: idofill en la tabla campaign
+para marcacion horizontal : idopen int, ncampo 	(var char 10) en la tabla calls y idofill en la tabla campaign

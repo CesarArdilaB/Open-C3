@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractProcess.class.php" server="www.plataformapse.com//www/openc3/" local="129667319100000000" remote="130849130400000000" Dst="0" />
+<file name="AMIClientConn.class.php" server="www.plataformapse.com//www/openc3/" local="129667319100000000" remote="130849130400000000" Dst="0" />
+<file name="AppLogger.class.php" server="www.plataformapse.com//www/openc3/" local="129667319090000000" remote="130849130400000000" Dst="0" />
+<file name="DialerConn.class.php" server="www.plataformapse.com//www/openc3/" local="129667319090000000" remote="130849130400000000" Dst="0" />
+<file name="dialerd" server="www.plataformapse.com//www/openc3/" local="129667319090000000" remote="130849130400000000" Dst="0" />
+<file name="dialerd.conf" server="www.plataformapse.com//www/openc3/" local="129667319090000000" remote="130849130400000000" Dst="0" />
+<file name="DialerServer.class.php" server="www.plataformapse.com//www/openc3/" local="129667319100000000" remote="130849130400000000" Dst="0" />
+<file name="DialerProcess.class.php" server="www.plataformapse.com//www/openc3/" local="129913352340110877" remote="130849130400000000" Dst="0" />
+<file name="MultiplexServer.class.php" server="www.plataformapse.com//www/openc3/" local="129667319090000000" remote="130849130400000000" Dst="0" />
+<file name="GestorLlamadasEntrantes.class.php" server="www.plataformapse.com//www/openc3/" local="129667319100000000" remote="130849130400000000" Dst="0" />
+<file name="phpagi-asmanager-elastix.php" server="www.plataformapse.com//www/openc3/" local="129667319090000000" remote="130849130400000000" Dst="0" />
+<file name="phpagi.php" server="www.plataformapse.com//www/openc3/" local="129667319090000000" remote="130849130400000000" Dst="0" />
+<file name="Predictivo.class.php" server="www.plataformapse.com//www/openc3/" local="129667319100000000" remote="130849130400000000" Dst="0" />
+<file name="dialerd.log" server="www.plataformapse.com//www/openc3/" local="129761751110000000" remote="130849130400000000" Dst="0" />
+<file name="Protocolo ECCP.txt" server="www.plataformapse.com//www/openc3/" local="129667319090000000" remote="130849130400000000" Dst="0" />
+<file name="XMLDialerConn.class.php" server="www.plataformapse.com//www/openc3/" local="129667319100000000" remote="130849130400000000" Dst="0" />
+<file name="AbstractProcess.class.php" server="192.168.0.147//var/www/html/openc3/" local="129667319100000000" remote="131238825460000000" Dst="0" />
+<file name="AMIClientConn.class.php" server="192.168.0.147//var/www/html/openc3/" local="129667319100000000" remote="131238825460000000" Dst="0" />
+<file name="AppLogger.class.php" server="192.168.0.147//var/www/html/openc3/" local="129667319090000000" remote="131238825460000000" Dst="0" />
+<file name="DialerConn.class.php" server="192.168.0.147//var/www/html/openc3/" local="129667319090000000" remote="131238825460000000" Dst="0" />
+<file name="dialerd" server="192.168.0.147//var/www/html/openc3/" local="129667319090000000" remote="131238825460000000" Dst="0" />
+<file name="dialerd.conf" server="192.168.0.147//var/www/html/openc3/" local="129667319090000000" remote="131238825470000000" Dst="0" />
+<file name="dialerd.log" server="192.168.0.147//var/www/html/openc3/" local="129761751110000000" remote="131238825530000000" Dst="0" />
+<file name="DialerProcess.class.php" server="192.168.0.147//var/www/html/openc3/" local="129913352340110877" remote="131238825540000000" Dst="0" />
+<file name="DialerServer.class.php" server="192.168.0.147//var/www/html/openc3/" local="129667319100000000" remote="131238825540000000" Dst="0" />
+<file name="GestorLlamadasEntrantes.class.php" server="192.168.0.147//var/www/html/openc3/" local="129667319100000000" remote="131238825570000000" Dst="0" />
+<file name="MultiplexServer.class.php" server="192.168.0.147//var/www/html/openc3/" local="129667319090000000" remote="131238825570000000" Dst="0" />
+<file name="phpagi-asmanager-elastix.php" server="192.168.0.147//var/www/html/openc3/" local="129667319090000000" remote="131238825570000000" Dst="0" />
+<file name="phpagi.php" server="192.168.0.147//var/www/html/openc3/" local="129667319090000000" remote="131238825570000000" Dst="0" />
+<file name="Predictivo.class.php" server="192.168.0.147//var/www/html/openc3/" local="129667319100000000" remote="131238825580000000" Dst="0" />
+<file name="Protocolo ECCP.txt" server="192.168.0.147//var/www/html/openc3/" local="129667319090000000" remote="131238825580000000" Dst="0" />
+<file name="XMLDialerConn.class.php" server="192.168.0.147//var/www/html/openc3/" local="129667319100000000" remote="131238825590000000" Dst="0" />
+<file name="AbstractProcess.class.php" server="192.168.2.143//var/www/html/openc3/" local="129667319100000000" remote="131250111590000000" Dst="0" />
+<file name="AMIClientConn.class.php" server="192.168.2.143//var/www/html/openc3/" local="129667319100000000" remote="131250111600000000" Dst="0" />
+<file name="AppLogger.class.php" server="192.168.2.143//var/www/html/openc3/" local="129667319090000000" remote="131250111600000000" Dst="0" />
+<file name="DialerConn.class.php" server="192.168.2.143//var/www/html/openc3/" local="129667319090000000" remote="131250111600000000" Dst="0" />
+<file name="dialerd" server="192.168.2.143//var/www/html/openc3/" local="129667319090000000" remote="131250111600000000" Dst="0" />
+<file name="dialerd.conf" server="192.168.2.143//var/www/html/openc3/" local="129667319090000000" remote="131250111600000000" Dst="0" />
+<file name="dialerd.log" server="192.168.2.143//var/www/html/openc3/" local="129761751110000000" remote="131250111660000000" Dst="0" />
+<file name="DialerProcess.class.php" server="192.168.2.143//var/www/html/openc3/" local="129913352340110877" remote="131250111680000000" Dst="0" />
+<file name="DialerServer.class.php" server="192.168.2.143//var/www/html/openc3/" local="129667319100000000" remote="131250111680000000" Dst="0" />
+<file name="GestorLlamadasEntrantes.class.php" server="192.168.2.143//var/www/html/openc3/" local="129667319100000000" remote="131250111700000000" Dst="0" />
+<file name="MultiplexServer.class.php" server="192.168.2.143//var/www/html/openc3/" local="129667319090000000" remote="131250111700000000" Dst="0" />
+<file name="phpagi-asmanager-elastix.php" server="192.168.2.143//var/www/html/openc3/" local="129667319090000000" remote="131250111710000000" Dst="0" />
+<file name="phpagi.php" server="192.168.2.143//var/www/html/openc3/" local="129667319090000000" remote="131250111710000000" Dst="0" />
+<file name="Predictivo.class.php" server="192.168.2.143//var/www/html/openc3/" local="129667319100000000" remote="131250111710000000" Dst="0" />
+<file name="Protocolo ECCP.txt" server="192.168.2.143//var/www/html/openc3/" local="129667319090000000" remote="131250111720000000" Dst="0" />
+<file name="XMLDialerConn.class.php" server="192.168.2.143//var/www/html/openc3/" local="129667319100000000" remote="131250111720000000" Dst="0" />
+<file name="AbstractProcess.class.php" server="10.100.110.150//var/www/html/openc3/" local="129667319100000000" remote="131254554940000000" Dst="0" />
+<file name="AMIClientConn.class.php" server="10.100.110.150//var/www/html/openc3/" local="129667319100000000" remote="131254554940000000" Dst="0" />
+<file name="AppLogger.class.php" server="10.100.110.150//var/www/html/openc3/" local="129667319090000000" remote="131254554940000000" Dst="0" />
+<file name="DialerConn.class.php" server="10.100.110.150//var/www/html/openc3/" local="129667319090000000" remote="131254554940000000" Dst="0" />
+<file name="dialerd" server="10.100.110.150//var/www/html/openc3/" local="129667319090000000" remote="131254554940000000" Dst="0" />
+<file name="dialerd.conf" server="10.100.110.150//var/www/html/openc3/" local="129667319090000000" remote="131254554940000000" Dst="0" />
+<file name="dialerd.log" server="10.100.110.150//var/www/html/openc3/" local="129761751110000000" remote="131254554940000000" Dst="0" />
+<file name="DialerProcess.class.php" server="10.100.110.150//var/www/html/openc3/" local="129913352340110877" remote="131254554940000000" Dst="0" />
+<file name="DialerServer.class.php" server="10.100.110.150//var/www/html/openc3/" local="129667319100000000" remote="131254554940000000" Dst="0" />
+<file name="GestorLlamadasEntrantes.class.php" server="10.100.110.150//var/www/html/openc3/" local="129667319100000000" remote="131254554950000000" Dst="0" />
+<file name="MultiplexServer.class.php" server="10.100.110.150//var/www/html/openc3/" local="129667319090000000" remote="131254554950000000" Dst="0" />
+<file name="phpagi-asmanager-elastix.php" server="10.100.110.150//var/www/html/openc3/" local="129667319090000000" remote="131254554950000000" Dst="0" />
+<file name="phpagi.php" server="10.100.110.150//var/www/html/openc3/" local="129667319090000000" remote="131254554950000000" Dst="0" />
+<file name="Predictivo.class.php" server="10.100.110.150//var/www/html/openc3/" local="129667319100000000" remote="131254554950000000" Dst="0" />
+<file name="Protocolo ECCP.txt" server="10.100.110.150//var/www/html/openc3/" local="129667319090000000" remote="131254554950000000" Dst="0" />
+<file name="XMLDialerConn.class.php" server="10.100.110.150//var/www/html/openc3/" local="129667319100000000" remote="131254554950000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,13 @@
+se debe agregar un campo llamado "idofill" tipo INT al final de la tabla "campaign"
+
+se debe agragar un campo llamado "idopen" tipo INT al fina de la tabla "calls"
+
+se debe agregar un campo llamado "ncampo" tipo VARCHAR 20 al fina de la tabla "calls"
+
+
+CREATE TABLE `call_center`.`calls_open` (
+`autoid` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`id_call` INT NOT NULL ,
+`id_open` INT NOT NULL ,
+INDEX ( `id_call` , `id_open` )
+) ENGINE = MYISAM 

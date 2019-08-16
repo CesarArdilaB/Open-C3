@@ -1,0 +1,11 @@
+DELETE autof_matrizprincipal_1 FROM ident_1,autof_matrizprincipal_1 WHERE id_ident_1 = autof_matrizprincipal_1_id AND YEAR( `fechahorac` ) =2012 AND MONTH( `fechahorac` ) <11 ;
+
+DELETE history_1 FROM ident_1,history_1 WHERE id_ident_1 = id_reg AND YEAR( `fechahorac` ) =2012 AND MONTH( `fechahorac` ) <11 ;
+
+DELETE agenda FROM ident_1,agenda WHERE id_ident_1 = idregistro AND YEAR( `fechahorac` ) = 2012 AND MONTH( `fechahorac` ) <11 ;
+
+DELETE inv_inventario FROM ident_1,inv_inventario WHERE id_ident_1 = idregistro AND YEAR( `fechahorac` ) = 2012 AND MONTH( `fechahorac` ) <11 ;
+
+DELETE inv_historial FROM ident_1,inv_historial WHERE id_ident_1 = idregistro AND YEAR( `fechahorac` ) = 2012 AND MONTH( `fechahorac` ) <11
+
+DELETE FROM ident_1 WHERE YEAR( `fechahorac` ) = 2012 AND MONTH( `fechahorac` ) <11;

@@ -1,0 +1,10 @@
+Es importante lo siguiente.
+
+asignar los permisos de los directorios de smarty:
+
+$smarty->template_dir = './design/';
+$smarty->compile_dir = './smarty/templates_c/';
+$smarty->config_dir = './smarty/config/';
+$smarty->cache_dir = './smarty/cache/';
+
+y crar enlases simbolicos para los css y las imagenes de la carpeta de templates en el document root
